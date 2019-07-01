@@ -1,0 +1,2 @@
+# nio_practice
+本工程是基于netty写消息推送系统，nio写聊天系统，基于netty简易版的tomcat
