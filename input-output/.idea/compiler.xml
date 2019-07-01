@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bio-nio" />
+        <module name="netty" />
+        <module name="netty-chat" />
+        <module name="netty-rpc-api" />
+        <module name="netty-rpc-consumer" />
+        <module name="netty-rpc-protocol" />
+        <module name="netty-rpc-provider" />
+        <module name="netty-rpc-registry" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bio-nio" target="1.5" />
+      <module name="input-output" target="1.5" />
+      <module name="netty" target="1.6" />
+      <module name="netty-chat" target="1.5" />
+      <module name="netty-rpc-api" target="1.5" />
+      <module name="netty-rpc-consumer" target="1.5" />
+      <module name="netty-rpc-protocol" target="1.5" />
+      <module name="netty-rpc-provider" target="1.5" />
+      <module name="netty-rpc-registry" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

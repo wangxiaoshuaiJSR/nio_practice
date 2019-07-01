@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bio-nio/bio-nio.iml" filepath="$PROJECT_DIR$/bio-nio/bio-nio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/input-output.iml" filepath="$PROJECT_DIR$/input-output.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty/netty.iml" filepath="$PROJECT_DIR$/netty/netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-chat/netty-chat.iml" filepath="$PROJECT_DIR$/netty-chat/netty-chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-rpc-api/netty-rpc-api.iml" filepath="$PROJECT_DIR$/netty-rpc-api/netty-rpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-rpc-consumer/netty-rpc-consumer.iml" filepath="$PROJECT_DIR$/netty-rpc-consumer/netty-rpc-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-rpc-protocol/netty-rpc-protocol.iml" filepath="$PROJECT_DIR$/netty-rpc-protocol/netty-rpc-protocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-rpc-provider/netty-rpc-provider.iml" filepath="$PROJECT_DIR$/netty-rpc-provider/netty-rpc-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-rpc-registry/netty-rpc-registry.iml" filepath="$PROJECT_DIR$/netty-rpc-registry/netty-rpc-registry.iml" />
+    </modules>
+  </component>
+</project>
